@@ -68,7 +68,7 @@ The following platform-level metrics were computed from the dataset:
 - **AdWords** may still be effective for broader reach or awareness-based campaigns.  
 - Statistical hypothesis testing (t-tests and proportion tests) confirmed that these differences are **statistically significant**.
 
-Complete summary in 
+Complete summary in [AB-Testing-Marketing-Campaign-Analysis-Report.pdf](AB-Testing-Marketing-Campaign-Analysis-Report.pdf)
 
 ---
 
